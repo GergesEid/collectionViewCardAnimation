@@ -1,0 +1,6 @@
+framework module Pods_collectionViewCardAnimation_collectionViewCardAnimationUITests {
+  umbrella header "Pods-collectionViewCardAnimation-collectionViewCardAnimationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

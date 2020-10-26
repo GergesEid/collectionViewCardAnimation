@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_collectionViewCardAnimation_collectionViewCardAnimationUITests : NSObject
+@end
+@implementation PodsDummy_Pods_collectionViewCardAnimation_collectionViewCardAnimationUITests
+@end
